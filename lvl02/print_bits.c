@@ -2,7 +2,7 @@
 
 void	print_bits(unsigned char octet)
 {
-	unsigned int	c;
+	unsigned char	c;
 	int	i;
 
 	i = 7;
